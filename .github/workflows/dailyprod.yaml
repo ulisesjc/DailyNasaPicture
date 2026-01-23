@@ -24,7 +24,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip3 install -r requirements.txt
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
 
       - name: Fetch NASA APOD
         env:
@@ -37,5 +38,5 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'cortez.ulises23@gmail.com'
           git add .
-          git commit -m "Update daily NASA APOD" || true"
+          git commit -m "Update daily NASA APOD" || true
           git push 
