@@ -31,10 +31,6 @@ def main():
     resp.raise_for_status()
     data = resp.json()
 
-    with open(f"{image_dir}/apod.jpg", "wb") as f:
-        f.write(img.content)
-
-
     if data.get("media_type") == "image":
         img = requests.get(data["url"])
         img.raise_for_status()
