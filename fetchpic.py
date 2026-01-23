@@ -1,5 +1,6 @@
 import os
 import requests
+import shutil
 from datetime import date
 
 NASA_API_KEY = os.environ.get("NASA_API_KEY")
@@ -10,6 +11,8 @@ def main():
 
     metadata_path = f"{BASE_DIR}/metadata/{today}.json"
     image_dir = f"{BASE_DIR}/images/{today}"
+    latest_path = f"{BASE_DIR}/images/latest.jpg"
+
 
     if os.path.exists(metadata_path):
         print("APOD already fetched for today.")
@@ -28,8 +31,9 @@ def main():
     resp.raise_for_status()
     data = resp.json()
 
-    with open(metadata_path, "w") as f:
-        f.write(str(data))
+    with open(f"{image_dir}/apod.jpg", "wb") as f:
+        f.write(img.content)
+
 
     if data.get("media_type") == "image":
         img = requests.get(data["url"])
