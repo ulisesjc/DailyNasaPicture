@@ -39,16 +39,16 @@ def main():
     today = datetime.now().strftime('%Y-%m-%d')
 
     readme_content = f"""
-    # 🌌 NASA Astronomy Picture of the Day
+    #  NASA Astronomy Picture of the Day
 
-    **Date: {today}**
+    Date: {today}
 
-    ## {data['title']}
+     {data['title']}
 
-    ![NASA APOD](apod/images/{today}/apod.jpg)
+    ![NASA APOD]({image_dir}/apod.jpg)
     {data['explanation']}
 
-    *Image credit: NASA APOD*
+    Image credit: NASA APOD
         """
 
     with open("README.md", "w") as f:
