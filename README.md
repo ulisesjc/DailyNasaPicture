@@ -1,11 +1,12 @@
- #  NASA Astronomy Picture of the Day
 
-Date: 2026-02-24
+    #  NASA Astronomy Picture of the Day
 
-Planet Parade over Sydney Opera House
+    Date: 2026-02-26
 
-![NASA APOD](apod/images/2026-02-24/apod.jpg)
-    Look up this week and see a whole bunch of planets.  Just after sunset, looking west (mostly), planets Mercury, Venus, Saturn, and Jupiter will all be visible to the unaided eye simultaneously.  If you have a telescope, planets Uranus and Neptune can also be seen.  In order up from the horizon, the lineup this week will be Venus (the brightest), Mercury, Saturn, Neptune, Uranus, and Jupiter (second brightest).  It doesn't matter where on Earth you live because this early evening planet parade will be visible through clear skies all around the globe.  The planets will appear to be nearly in a line because they all orbit the Sun in nearly the same plane: the ecliptic.  The featured image shows a similar planet parade that occurred in 2022, captured over the Sydney Opera House in southern Australia.  Although visible all week, the planets will be most easily seen together this weekend.
+     Webb and Hubble: IC 5332
 
- Image credit: NASA APOD
+    ![NASA APOD](apod/images/2026-02-26/apod.jpg)
+    What does the universe look like through infrared goggles? Our eyes can only see visible light, but astronomers want to see more. Today’s APOD shows spiral galaxy IC 5332 as seen by two NASA telescopes: Webb in mid-infrared and Hubble in ultraviolet and visible light. To toggle between the two space-based views just slide your cursor over the image (or follow this link). The Hubble image highlights the spiral arms of the galaxy separated by dark regions, whereas the Webb image reveals a finer, more tangled structure. Interstellar dust scatters and absorbs light from the stars in the galaxy, causing the dark dust lanes in the Hubble image, and then emits heat in infrared light, so dust glows in this Webb image. The Mid-InfraRed Instrument on Webb needs to operate at a chilling temperature of -266ºC (or - 447ºF), otherwise it would detect infrared radiation from the telescope itself. Combining these observations, astronomers connect the “small scale” of gas and stars to the truly large scale of galactic structure and evolution.
+
+    Image credit: NASA APOD
         
