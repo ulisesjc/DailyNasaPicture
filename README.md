@@ -1,12 +1,12 @@
 
     #  NASA Astronomy Picture of the Day
 
-    Date: 2026-04-05
+    Date: 2026-04-07
 
-     NGC 3310: A Starburst Spiral Galaxy
+     IC 4592: The Blue Horsehead Reflection Nebula
 
-    ![NASA APOD](apod/images/2026-04-05/apod.jpg)
-    The party is still going on in spiral galaxy NGC 3310.  Roughly 100 million years ago, NGC 3310 likely collided with a smaller galaxy causing the large spiral galaxy to light up with a tremendous burst of star formation.  The changing gravity during the collision created density waves that compressed existing clouds of gas and triggered the star-forming party.  The featured image from the Gemini North Telescope shows the galaxy in great detail, color-coded so that pink highlights gas while white and blue highlight stars.  Some of the star clusters in the galaxy are quite young, indicating that starburst galaxies may remain in star-burst mode for quite some time.  NGC 3310 spans about 50,000 light years, lies about 50 million light years away, and is visible with a small telescope towards the constellation of Great Bear Ursa Major.
+    ![NASA APOD](apod/images/2026-04-07/apod.jpg)
+    Do you see the horse's head?   What you are seeing is not the famous Horsehead nebula toward Orion, but rather a fainter nebula that only takes on a familiar form with deeper imaging.  The main part of the here-imaged molecular cloud complex is  reflection nebula IC 4592.  Reflection nebulas are made up of very fine dust that normally appears dark but can look quite blue when reflecting the visible light of energetic nearby stars.  In this case, the source of much of the reflected light is a star at the eye of the horse.  That star is part of Nu Scorpii, one of the brighter star systems toward the constellation of the Scorpion (Scorpius).   A second reflection nebula dubbed IC 4601 is visible surrounding two stars just below the image center.  The featured picture was taken from  Sawda Natheel in  Qatar.   Jigsaw Nebula: Astronomy Puzzle of the Day
 
     Image credit: NASA APOD
         
