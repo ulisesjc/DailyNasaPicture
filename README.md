@@ -1,12 +1,12 @@
 
     #  NASA Astronomy Picture of the Day
 
-    Date: 2026-04-07
+    Date: 2026-04-09
 
-     IC 4592: The Blue Horsehead Reflection Nebula
+     Destruction of Comet C/2026 A1 (MAPS)
 
-    ![NASA APOD](apod/images/2026-04-07/apod.jpg)
-    Do you see the horse's head?   What you are seeing is not the famous Horsehead nebula toward Orion, but rather a fainter nebula that only takes on a familiar form with deeper imaging.  The main part of the here-imaged molecular cloud complex is  reflection nebula IC 4592.  Reflection nebulas are made up of very fine dust that normally appears dark but can look quite blue when reflecting the visible light of energetic nearby stars.  In this case, the source of much of the reflected light is a star at the eye of the horse.  That star is part of Nu Scorpii, one of the brighter star systems toward the constellation of the Scorpion (Scorpius).   A second reflection nebula dubbed IC 4601 is visible surrounding two stars just below the image center.  The featured picture was taken from  Sawda Natheel in  Qatar.   Jigsaw Nebula: Astronomy Puzzle of the Day
+    ![NASA APOD](apod/images/2026-04-09/apod.jpg)
+    As the crew of Artemis II travelled towards the Moon this week, Comet C/2026 A1 (MAPS) was expected to have its closest approach to the Sun on Monday. At this point, comet and Sun would be closer than half the distance separating the Earth and Moon. The comet did not survive; the featured video was made with 40 hours of data and shows the comet plunging toward the Sun, like a moth to a flame. Observing the comet so close to our bright star requires a coronagraph, an instrument that blocks the Sun and is used for studies of its corona. This composite video combines, starting from the outside, views from: the wider angle coronagraph (blue) and the narrower angle coronagraph (red), both on NASA's Solar and Heliospheric Observatory, and NASA's Solar Dynamics Observatory (black). We can see the comet approaching the sun, stretching, disappearing behind the coronagraph's occulting disk and reappearing as a cloud of debris that dissipates.
 
     Image credit: NASA APOD
         
