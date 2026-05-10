@@ -1,12 +1,12 @@
 
     #  NASA Astronomy Picture of the Day
 
-    Date: 2026-05-09
+    Date: 2026-05-10
 
-     Messier Craters in Stereo
+     Comet R3 PanSTARRS and Orion
 
-    ![NASA APOD](apod/images/2026-05-09/apod.jpg)
-    Many bright nebulae and star clusters in planet Earth's sky are associated with the name of astronomer Charles Messier from his famous 18th century catalog. His name is also given to these two large and remarkable craters on the Moon. Standouts in the dark, smooth lunar Sea of Fertility or Mare Fecunditatis, Messier (left) and Messier A have dimensions of 15 by 8 and 16 by 11 kilometers respectively. Their elongated shapes are explained by the extremely shallow-angle trajectory followed by an impactor, moving left to right, that gouged out the craters. The shallow impact also resulted in two bright rays of material extending along the surface to the right, beyond the picture. Intended to be viewed with red/blue glasses (red for the left eye), this striking stereo picture of the crater pair was recently created from high resolution scans of two images (AS11-42-6304, AS11-42-6305) taken during the Apollo 11 mission to the Moon.
+    ![NASA APOD](apod/images/2026-05-10/apod.jpg)
+    Orion never had a sword like this. As Comet C/2025 R3 (PanSTARRS) heads out of the inner Solar System, it is putting on quite a show for long exposure cameras.  Currently seen toward the constellation of Orion the Hunter, the distant Orion Nebula is visible on the upper right. Comet R3 PanSTARRS is now showing two distinct tails: a short dust tail pointing toward the top of the image and a long and wavy ion tail trailing off toward the upper left.  The ion tail points away from the Sun and glows blue from excited carbon monoxide.  Large particles in the dust tail somewhat resist the radiation pressure that push them away from the Sun and so retain a bit of the comet's orbit.  The dust tail shines by reflected sunlight. The featured image was taken a few days ago from France's Reunion Island in the southern Indian Ocean.   Growing Gallery: Comet R3 PanSTARRS in 2026
 
     Image credit: NASA APOD
         
