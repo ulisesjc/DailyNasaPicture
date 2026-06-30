@@ -1,12 +1,12 @@
 
     #  NASA Astronomy Picture of the Day
 
-    Date: 2026-06-28
+    Date: 2026-06-30
 
-     AR 4478: Giant Sunspot Group
+     Unusually Smooth Sections of Asteroid Itokawa
 
-    ![NASA APOD](apod/images/2026-06-28/apod.jpg)
-    Right now, one of the largest sunspot groups in recent history is crossing the Sun.  Active Region 4478 is not only big -- it's violent, showing tangled magnetic fields capable of throwing off huge clouds of particles into the Solar System.  Some of these CMEs might impact the Earth.  At the extreme, these solar storms could cause some Earth-orbiting satellites to malfunction, the Earth's atmosphere to slightly distort, and electrical power grids to surge.  When impacting Earth's upper atmosphere, these particles can produce beautiful auroras. Pictured here, AR 4478 and its dark sunspots were captured in visible light a few days ago from Barcelona, Spain.  Almost as large as AR 3664 was in 2024, the AR 4478 sunspot group is so big that it is visible just with glasses specially designed to view solar eclipses.  This week, skygazing enthusiasts all over the globe will not only be tracking AR 4478 during the day -- but keenly watching night skies for its corresponding bright auroras.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+    ![NASA APOD](apod/images/2026-06-30/apod.jpg)
+    Why are parts of this asteroid's surface so smooth?  The answer seems likely to do with the dynamics of an asteroid that is a loose pile of rubble rather than a solid rock.  The unusual asteroid Itokawa was visited by the Japanese spacecraft Hayabusa in 2005 which imaged and documented its unusual structure and mysterious lack of craters.  Analyses of the border regions between smooth and rugged sections indicate that jostling of the asteroid might be creating segregation between large and small rocks near the surface, like the Brazil nut effect.  The robotic Hayabusa actually touched down on one of the smooth patches, dubbed the MUSES Sea, and collected soil samples. These samples were returned to Earth and are not only giving clues to the ancient history of this unusual asteroid, but also about the early years of our entire Solar System. Computer simulations show that 500-meter asteroid Itokawa may impact the Earth within the next few million years.   Rocking Space: Today is Asteroid Day
 
     Image credit: NASA APOD
         
