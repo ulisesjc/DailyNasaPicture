@@ -1,12 +1,12 @@
 
     #  NASA Astronomy Picture of the Day
 
-    Date: 2026-08-08
+    Date: 2026-08-10
 
-     A Messier Moment for Tempel 2
+     Three Galaxy Pairs
 
-    ![NASA APOD](apod/images/2026-08-08/apod.jpg)
-    Which of these is not a comet? You guessed it - the one on the right is a globular star cluster. The diffuse greenish coma of periodic comet 10P/Tempel 2 is at left in the frame. In fact the globular star cluster is Messier 30, also known as M30, or the 30th entry in astronomer Charles Messier's catalog of things which are not comets. The well-known 18th century astronomer kept a list of objects he observed, now his famous Messier Catalogue of Nebulae and Star Clusters, which did not move from night to night against the background stars and so were not the comets he was hunting for. So the famous comet hunter would get the correct answer too, even though his telescope would show both 10P/Tempel 2 and distant star cluster as similar looking faint and fuzzy objects in his field of view. Recorded on July 29, this modern telescopic image captures periodic comet Tempel 2 as it briefly swept close on the sky to M30. While the periodic comet's faint, narrow, orbital dust trail seems to pierce the globular star cluster, Tempel 2 was a mere 3.5 light-minutes away. Messier 30 is some 28,000 light-years distant.
+    ![NASA APOD](apod/images/2026-08-10/apod.jpg)
+    ch of these pairs of galaxies is different.  The two galaxies at the top are likely not interacting, at least presently.  However, the top galaxy with the blue stripe, NGC 4650A, is a polar ring galaxy and may be the result of a past galaxy collision. The two galaxies in the middle of the featured image appear like they could be interacting gravitationally -- but their relative speeds make this unlikely.  Of these two, the larger galaxy, NGC 4650, is a spiral galaxy with a bright bar of stars across its center.  The two galaxies at the bottom are actively interacting.  Possibly in a billion years or so, NGC 4622A and NGC 4622B will merge and become one single galaxy. All of these galaxies are likely members of the larger Centaurus Galaxy Cluster.    Explore the Universe: Random APOD Generator
 
     Image credit: NASA APOD
         
