@@ -1,12 +1,12 @@
 
     #  NASA Astronomy Picture of the Day
 
-    Date: 2026-08-16
+    Date: 2026-08-18
 
-     Milky Way over Yellowstone
+     Perseids from Perseus
 
-    ![NASA APOD](apod/images/2026-08-16/apod.jpg)
-    The Milky Way was not created by an evaporating lake.  The colorful pool of water, about 10 meters across, is known as Silex Spring and is located in Yellowstone National Park in Wyoming, USA.  Illuminated artificially, the colors are caused by layers of bacteria that grow in the hot spring.  Steam rises off the spring, heated by underground magma associated with the Yellowstone Hotspot.  Unrelated and far in the distance, the central band of our Milky Way Galaxy arches high overhead, a band lit by billions of stars.  The picture features a 16-image panorama taken in 2014.  If the Yellowstone Hotspot causes another supervolcanic eruption as it did about 640,000 years ago, a large part of North America would be affected.
+    ![NASA APOD](apod/images/2026-08-18/apod.jpg)
+    This was a good year for the Perseids meteor shower.  A key reason was the Moon was absent from lighting up Earth's night sky so that more meteors were visible than usual.  Where was the Moon?  It was busy visiting the Sun.  Near the Perseids peak, the Moon moved directly in front of the Sun and created a total solar eclipse visible from Greenland and Spain. The Perseids occur when the Earth collides with a stream of Sun-orbiting debris cast off by Comet Swift-Tuttle. Perseid meteors, although typically only the size of a sand grain, tend to be fast and bright because Swift-Tuttle's debris orbits the Sun in a direction partly opposite Earth's orbital motion. In the featured image compilation, accumulated over several nights from Jizerka in the Czech Republic, the Perseids meteor streaks can be traced back to a single location on the sky -- its radiant in Perseus.    Gallery: Perseids Meteor Shower of 2026
 
     Image credit: NASA APOD
         
