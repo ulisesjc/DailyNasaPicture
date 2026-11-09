@@ -1,12 +1,12 @@
 
     #  NASA Astronomy Picture of the Day
 
-    Date: 2026-11-08
+    Date: 2026-11-09
 
      NASA Science
 
-    ![NASA APOD](apod/images/2026-11-08/apod.jpg)
-    The sky glows with soft pinkish colors of fading twilight in this serendipitous mountaintop vista. Taken in subfreezing temperatures, the thoughtfully composed photo shows snowy, rugged peaks seen from a mountain pass on 2017 November 14. Below lies the village of La Villa, Alta Badia in Italy's Dolomite Alps. Above the nestled village lights, the constellation Ursa Major hangs over the northern horizon. But most stunning is the intense fireball meteor. It was captured during the camera's exposure by chance as it flashed east to west across the northern horizon, under Ursa Major's familiar Big Dipper asterism. Sightings of this major fireball meteor were widely reported in European skies, making it one of the most reported fireball events ever for planet Earth's American Meteor Society and the International Meteor Organization. The meteor's measured track over Germany is consistent with its origin near the active radiant of November's Northern Taurid Meteor Shower, a shower associated with dust from Encke's comet.Tomorrow's picture: witch sky?						
+    ![NASA APOD](apod/images/2026-11-09/apod.jpg)
+    Does the blue nebula look like the head of a witch? The nebula is known popularly as the Witch Head Nebula because, it is said, the nebula's shape resembles a Halloween-style caricature of a witch's head. Exactly how, though, can be a topic of imaginative speculation. What is clear is that IC 2118 is about 50 light-years across and made of gas and dust that points to -- because it has been partly eroded by -- the nearby star Rigel. One of the brighter stars in the constellation Orion, Rigel lies just below the center of the featured image. The blue color of the Witch Head Nebula and is caused not only by Rigel's intense blue starlight but also because the dust grains scatter blue light more efficiently than red. The same physical process causes Earth's daytime sky to appear blue, although the scatterers in planet Earth's atmosphere are molecules of nitrogen and oxygen.Tomorrow's picture: suddenly Saturn						
 
     Image credit: NASA APOD
         
