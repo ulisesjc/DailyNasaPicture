@@ -1,12 +1,12 @@
 
     #  NASA Astronomy Picture of the Day
 
-    Date: 2026-11-10
+    Date: 2026-11-11
 
      NASA Science
 
-    ![NASA APOD](apod/images/2026-11-10/apod.jpg)
-    Sometimes Saturn disappears. It doesn't really go away, of course -- it just disappears from our view when Earth's Moon moves in front. Such a Saturnian eclipse, more formally called an occultation, was visible in early 2025 along a small swath of Earth -- from Greenland through central Europe and into northern Africa. The featured image is a digital fusion of three images, the first of just Saturn before it disappeared, and then two more of the Moon with different exposure lengths. The images were taken from Sardinia, Italy, after sunset. The bright dot near Saturn is not a moon of Saturn, but rather the star 85 Aquarii, which is further behind Saturn than Saturn is behind the Moon. The next time the Moon moves in front of Saturn, as visible from some place on Earth, will be in 2031. Tomorrow's picture: small but mighty						
+    ![NASA APOD](apod/images/2026-11-11/apod.jpg)
+    Don’t judge a galaxy by its size. Our home galaxy, the Milky Way, is about 100,000 light years across. This huge expanse of space contains hundreds of billions of stars! The smallest galaxies, called dwarf galaxies, are about 1/10th the size of the Milky Way and only contain a few billion stars. They are also the most common type of galaxy in the whole universe. Today’s image shows one such dwarf galaxy, NGC 4449, captured by the Hubble Space Telescope. NGC 4449 and similar dwarf galaxies are missing more oxygen than models predict. This suggests their stellar winds and supernovae are surprisingly effective at blowing away oxygen and other heavy elements. Turns out these tiny galaxies may play a big role in spreading heavy elements — the building blocks of stars, planets, and life — throughout the universe!Tomorrow's picture: a date in Poland						
 
     Image credit: NASA APOD
         
