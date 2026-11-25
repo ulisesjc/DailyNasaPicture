@@ -1,12 +1,12 @@
 
     #  NASA Astronomy Picture of the Day
 
-    Date: 2026-11-24
+    Date: 2026-11-25
 
      NASA Science
 
-    ![NASA APOD](apod/images/2026-11-24/apod.jpg)
-    After this galaxy battle, only one galaxy will remain. Already visible in the featured picture are rings and faint star swirls from previous gravitational encounters. Known collectively as the NGC 7771 Group, these galaxies lie almost 200 million light-years away toward the high-flying constellation Pegasus. The largest galaxy, barred spiral NGC 7771 on the lower right, is itself about 75,000 light-years across, and the galaxy on the upper left is spiral NGC 7769, which is almost as large. As these and other smaller galaxies make repeated close passages, they will all likely merge into one very large galaxy. Playing out over billions of years, the merger process is understood to be a normal part of the evolution of galaxies. Studying galaxy clashes like this helps humanity to better understand the possible merger between our own Milky Way and Andromeda galaxies.Tomorrow's picture: open space						
+    ![NASA APOD](apod/images/2026-11-25/apod.jpg)
+    To view this video please enable JavaScript, and consider upgrading to a web browser that 					supports HTML5 vide
 
     Image credit: NASA APOD
         
